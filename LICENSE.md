@@ -1,4 +1,4 @@
-# 
+# Enhance CapCut for macOS with exclusive CapCut for macOS Overlay | motion-tracking + batch-rendering, the #1 overlay. Includes motion-tracking and batch-rendering for a smoother
 
 
 
